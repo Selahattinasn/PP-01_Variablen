@@ -27,10 +27,13 @@
 // familyName = prompt("Bitte Nachnamen eingeben:");
 // console.log(firstName + " " + familyName);s
 
+// JS ist eine untypisierte Sprache! | untyped
+
 let test;
 test = "hi";
 test = 2;
 test = true;
+console.log("Datentyp: " + typeof test);
 console.log("Inhalt: " + test);
 
 
